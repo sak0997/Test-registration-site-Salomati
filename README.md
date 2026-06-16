@@ -1,1 +1,1 @@
-# Test-registration-site-Salomati
+# AutoTest-registration-site-Salomati
